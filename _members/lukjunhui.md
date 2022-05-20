@@ -1,6 +1,6 @@
 ---
 name: LukJunhui
-image: images/member.jpg
+image: images/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
