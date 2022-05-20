@@ -13,5 +13,5 @@ links:
 ---
 
 Anne is a good dog.
-She studied at the University of Good Dogs.
+She is a test.
 She likes pets, walkies, and treats.
