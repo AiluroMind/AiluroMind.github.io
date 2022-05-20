@@ -1,7 +1,7 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
+title: Research Institute of Big Data and Artificial Intelligence
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
 header: images/background.jpg
@@ -10,12 +10,12 @@ baseurl: /NFAI-lab-website
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: zchoujun2@student.cityu.edu.hk
+  google-scholar: Choujun Zhan
+  github: https://github.com/NFSYSU-AI
+#  twitter: YourLabHandle
+ # instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 ### advanced settings
 
