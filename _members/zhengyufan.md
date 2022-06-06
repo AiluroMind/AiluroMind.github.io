@@ -8,8 +8,8 @@ aliases:
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
-  github: anne-chovie
+  email: zhjpre@gmail.com
+  github: YufanZheng
 ---
 
 待补充
