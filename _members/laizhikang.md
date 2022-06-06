@@ -4,12 +4,12 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Zhikang Lai
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
-  github: anne-chovie
+  email: laizhikang@ciac.ac.cn
+  github: None
 ---
 
 待补充
