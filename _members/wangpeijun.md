@@ -4,11 +4,11 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Peijun Wang
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
+  email: 2639500669@qq.com
   github: anne-chovie
 ---
 
