@@ -4,7 +4,7 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Yufan Zheng
   - 
 links:
   home-page: annechovie.com
