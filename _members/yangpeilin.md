@@ -4,11 +4,11 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Peilin Yang
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
+  email: youyouzi423@gmail.com
   github: anne-chovie
 ---
 
