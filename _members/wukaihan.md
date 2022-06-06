@@ -4,12 +4,12 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Kaihan Wu
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
-  github: anne-chovie
+  email: wkaihan168@gmail.com
+  github: WKaiH123
 ---
 
 待补充
