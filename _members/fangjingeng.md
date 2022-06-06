@@ -4,11 +4,11 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Jingeng Fang
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
+  email: fljwgt0320@gmail.com
   github: anne-chovie
 ---
 
