@@ -7,7 +7,7 @@ aliases:
   - Yufan Zheng
   - 
 links:
-  home-page: annechovie.com
+  home-page: https://yufanzheng.github.io/
   email: zhjpre@gmail.com
   github: YufanZheng
 ---
