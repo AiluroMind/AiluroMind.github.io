@@ -4,12 +4,12 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Ao Chen
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
-  github: anne-chovie
+  email: 2993514952@qq.com
+  github: Lucid1ty
 ---
 
 待补充
