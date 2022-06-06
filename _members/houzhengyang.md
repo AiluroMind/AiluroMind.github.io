@@ -1,6 +1,6 @@
 ---
 name: 侯政瑒
-image: images/member/LukJunhui.jpg
+image: images/member/Jengyang.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
@@ -8,8 +8,8 @@ aliases:
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
-  github: anne-chovie
+  email: jenqyanghou@gmail.com
+  github: Jengyang
 ---
 
 待补充
