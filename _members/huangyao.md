@@ -1,6 +1,6 @@
 ---
 name: 黄尧
-image: images/member/LukJunhui.jpg
+image: images/member/huangyao.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
