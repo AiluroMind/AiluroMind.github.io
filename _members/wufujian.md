@@ -4,12 +4,12 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Fujian Wu
   - 
 links:
-  home-page: annechovie.com
-  email: lukjunhui@gmail.com
-  github: anne-chovie
+  home-page: https://ng-fukgin.gitee.io/
+  email: wfj.0000@Gmail.com
+  github: ng-fukgin
 ---
 
 待补充
