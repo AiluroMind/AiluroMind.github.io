@@ -4,11 +4,11 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Junyan Lin
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
+  email: Isaac.llljy@gmail.com
   github: anne-chovie
 ---
 
