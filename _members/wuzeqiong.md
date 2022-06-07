@@ -1,14 +1,14 @@
 ---
 name: 吴泽琼
-image: images/member/LukJunhui.jpg
+image: images/member/wuzeqiong.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Zeqiong Wu
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
+  email: wuzeqiong@gmail.com
   github: anne-chovie
 ---
 
