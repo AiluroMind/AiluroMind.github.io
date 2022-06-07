@@ -4,11 +4,11 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Jianbin Li
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
+  email: lijianbin@ciac.ac.cn
   github: anne-chovie
 ---
 
