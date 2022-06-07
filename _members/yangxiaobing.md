@@ -4,11 +4,11 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Bingxiao Yang
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
+  email: 2764901muyv@gmail.com
   github: anne-chovie
 ---
 
