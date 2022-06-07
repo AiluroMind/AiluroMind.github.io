@@ -4,12 +4,12 @@ image: images/member/LukJunhui.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Boyang Wang
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
-  github: anne-chovie
+  email: fugerrightsky@gmail.com
+  github: right-sky
 ---
 
 待补充
