@@ -1,15 +1,15 @@
 ---
 name: 刘永霖
-image: images/member/LukJunhui.jpg
+image: images/member/liuyonglin.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - lukjunhui
+  - Yonglin Liu
   - 
 links:
   home-page: annechovie.com
-  email: lukjunhui@gmail.com
-  github: anne-chovie
+  email: nfsysuliuyonglin@gmail.com
+  github: HappyRaymond
 ---
 
 待补充
