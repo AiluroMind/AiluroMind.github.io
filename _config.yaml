@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: NFAI
-description: Research Institute of Big Data and Artificial Intelligence
+title: AiluroMind
+description: AiluroMind
 logo: images/logo.jpg
 header: images/background.jpg
 footer: images/background.jpg
@@ -12,7 +12,7 @@ baseurl: /
 links:
   email: zchoujun2@student.cityu.edu.hk
   google-scholar: Choujun Zhan
-  github: NFSYSU-AI
+  github: AiluroMind
 #  twitter: YourLabHandle
  # instagram: YourLabHandle
   #youtube: YourLabChannel
